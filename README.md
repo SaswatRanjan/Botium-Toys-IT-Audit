@@ -7,7 +7,6 @@ This repository contains an internal IT audit for Botium Toys, a growing toy com
 - `reports/IT_Audit_Report.md` - Detailed audit findings and recommendations.
 - `reports/Controls_Checklist.xlsx` - Completed compliance checklist.
 - `README.md` - Overview of the audit process.
-- `.gitignore` - Exclusions for unnecessary files.
 
 ## **Key Findings**
 - **Missing encryption for payment data** (Non-compliant with PCI DSS).
